@@ -1,3 +1,5 @@
+# MADE COMPLETELY BY COPILOT
+
 import pygame
 import random
 import numpy as np
@@ -54,3 +56,4 @@ while running:
     clock.tick(60)
 
 pygame.quit()
+
